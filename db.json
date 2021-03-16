@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "name": "Gad",
+      "direction": true,
+      "amount": 30,
+      "approved": false
+    },
+    {
+      "id": 1,
+      "name": "Sarvelia",
+      "direction": false,
+      "amount": 20,
+      "approved": false
+    },
+    {
+      "name": "cindy",
+      "amount": "30",
+      "direction": true,
+      "approved": false,
+      "id": 2
+    }
+  ]
+}
